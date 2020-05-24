@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589398912530.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "301156440",
+    "id" : "8BEF788D",
+    "lastKnownWriteTime" : 1589400094,
+    "last_content_update" : 1589400094852,
+    "path" : "~/Desktop/R/test3 project/123.R",
+    "project_path" : "123.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
